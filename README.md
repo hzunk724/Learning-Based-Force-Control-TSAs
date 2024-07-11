@@ -1,4 +1,4 @@
-# Implementation of the Learning-Based Force Control Algorithm of TSAs from the Paper
+# Implementation of the Learning-Based Force Control Algorithm of TSAs
 
 This repository contains the implementation of the algorithm proposed in the paper.
 
